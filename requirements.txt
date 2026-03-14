@@ -1,0 +1,13 @@
+# Email Scraper Requirements
+
+# Google Sheets
+gspread>=6.0.0
+google-auth>=2.27.0
+
+# Web scraping
+aiohttp>=3.9.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Utilities
+python-dotenv>=1.0.0
